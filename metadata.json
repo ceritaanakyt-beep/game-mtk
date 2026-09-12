@@ -1,0 +1,6 @@
+{
+  "name": "Matematika Kelas 1 SD",
+  "description": "Media pembelajaran interaktif matematika untuk siswa kelas 1 SD mencakup mengenal bilangan, berhitung benda, penjumlahan, pengurangan, bentuk dan pola.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
